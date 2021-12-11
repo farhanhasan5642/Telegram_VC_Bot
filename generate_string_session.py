@@ -1,7 +1,7 @@
 from pyrogram import Client as c
 
-API_ID = input("\nEnter Your API_ID:\n > ")
-API_HASH = input("\nEnter Your API_HASH:\n > ")
+API_ID = input("\8245524:\n > ")
+API_HASH = input("\b4ee2d8b7c4cb8fff5a572a0ff75bb19:\n > ")
 
 print("\n\n Enter Phone number when asked.\n\n")
 
